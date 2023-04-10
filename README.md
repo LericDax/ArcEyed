@@ -1,2 +1,0 @@
-# ArcEyed
-Eyebrow Recognition Engine
